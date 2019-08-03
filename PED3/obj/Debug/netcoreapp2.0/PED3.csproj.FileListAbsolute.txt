@@ -1,0 +1,11 @@
+C:\Users\Juan Pablo\source\repos\PED3\PED3\bin\Debug\netcoreapp2.0\PED3.deps.json
+C:\Users\Juan Pablo\source\repos\PED3\PED3\bin\Debug\netcoreapp2.0\PED3.runtimeconfig.json
+C:\Users\Juan Pablo\source\repos\PED3\PED3\bin\Debug\netcoreapp2.0\PED3.runtimeconfig.dev.json
+C:\Users\Juan Pablo\source\repos\PED3\PED3\bin\Debug\netcoreapp2.0\PED3.dll
+C:\Users\Juan Pablo\source\repos\PED3\PED3\bin\Debug\netcoreapp2.0\PED3.pdb
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.AssemblyInfo.cs
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.dll
+C:\Users\Juan Pablo\source\repos\PED3\PED3\obj\Debug\netcoreapp2.0\PED3.pdb
